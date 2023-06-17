@@ -1,0 +1,2 @@
+# FractalsGL
+Mandelbrotset, and Julia
